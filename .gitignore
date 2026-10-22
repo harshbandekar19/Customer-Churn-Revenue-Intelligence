@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local data and generated outputs
+data/
+*.csv
+*.xlsx
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets
+secrets.toml
