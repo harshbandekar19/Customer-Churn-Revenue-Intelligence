@@ -97,3 +97,20 @@ The test set was examined during earlier model comparisons and threshold experim
 Harsh Bandekar
 
 Data Science | Machine Learning | Data Analytics
+
+
+## 🚀 Live Demo
+
+**Try the application:** [Customer Churn & Revenue Intelligence](https://customer-churn-revenue-intelligence-zf2khidrlhigcavmpsrdit.streamlit.app)
+
+Explore single-customer churn prediction, bulk CSV predictions, customer risk categories, retention recommendations, and the interactive executive dashboard.
+
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](executive-dashboard.png)
+
+### Bulk Customer Prediction
+
+![Bulk Customer Prediction](bulk-prediction-results.png)
